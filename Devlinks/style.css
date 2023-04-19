@@ -21,7 +21,8 @@ body * {
 /*Esta sao 2 maneiras de codar as mesmas propriedades. A segunda eh mais usual por ter menos linhas de codigo, facilitando o processamento*/
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
